@@ -6,8 +6,6 @@ if(!file.exists("TidyDataProject")) {
 #Load packages
 
 library(data.table)
-library(dplyr)
-library(plyr)
 library(reshape2)
 
 #Step 1: Merge the training and test data.
