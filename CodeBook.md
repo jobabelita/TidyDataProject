@@ -32,6 +32,6 @@ The run_analysis.R script will do the following:
 - CleanFeatures = contains "cleaned up" feature names from features.txt used as column names for "merged" data set
 - melted = contains melted tall and skinny data set
 - tidy = tidy data set containing only the extracted columns (subject ID, activity, mean measurements, standard deviation measurements) with clean column names
-- organizeddata - final data set containing clean data that can be exported neatly to a txt file
+- organizeddata - final data set containing clean data (subject ID, activity, average of measurements) that can be exported neatly to a txt file
 
 ### TidyDataProject.txt = file containing the output of this project
