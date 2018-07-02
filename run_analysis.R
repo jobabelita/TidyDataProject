@@ -81,5 +81,6 @@ colnames(merged) <- CleanFeatures
 melted <- melt(merged, id=c("subjectID","activity"))
 tidy <- dcast(melted, subjectID+activity ~ variable, mean)
 
-##5.2 Write tidy data set to csv file
+##5.2 Write tidy data set to csv and txt file
 write.csv(tidy, "tidydataproject.csv", row.names=FALSE)
+write.table(tidy, "tidydataproject.txt", row.names=FALSE)
