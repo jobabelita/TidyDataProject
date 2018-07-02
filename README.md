@@ -1,7 +1,7 @@
 # GETTING AND CLEANING DATA
-## Coursera Project
+Coursera Project
 
-# Contents
+## Contents
 This repository contains 3 files
 1. run_analysis.R
 2. tidydataproject.CSV
