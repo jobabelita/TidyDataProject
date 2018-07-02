@@ -33,4 +33,4 @@ The run_analysis.R script will do the following:
 - melted = contains melted tall and skinny data set
 - tidy = final data set containing only the extracted columns (subject ID, activity, mean measurements, standard deviation measurements) with clean column names
 
-### TidyDataProject.csv = file containing output of this project
+### TidyDataProject.csv = file containing the output of this project
