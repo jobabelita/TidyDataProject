@@ -8,7 +8,7 @@ This repository contains 4 files
 3. tidydataproject.CSV <- tidy data set output in CSV
 4. CodeBook.md <- describes the variables, the data, and any transformations or work performed to clean up the data 
 
-## Steps
+## Instructions
 1. Download zipfile of the "Human Activity Recognition Using Smartphones Data Set"
 2. Unzip file
 3. Ensure all files needed for the R script is in the same directory as the R script
